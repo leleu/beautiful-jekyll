@@ -169,6 +169,10 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # prose.io config
 prose:
